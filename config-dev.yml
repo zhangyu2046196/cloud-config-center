@@ -1,4 +1,2 @@
-aaa:
- bbb: ccc
 config:
     info: config-dev  version1
