@@ -1,1 +1,2 @@
-config-prod
+config:
+    info: config-prod
