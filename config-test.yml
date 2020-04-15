@@ -1,2 +1,4 @@
+aaa:
+ bbb: ccc
 config:
     info: config-test  version1
